@@ -106,7 +106,7 @@
     <label for="Image" class="form-label">Image</label>
     <input type="file" name="image" class="form-control" id="Image" aria-describedby="emailHelp" required>
   </div>
-  <a class="btn btn-danger" href="../show.php">Cancel</a>
+  <a class="btn btn-danger" href="product.php">Cancel</a>
   <input type="submit" name="update" class="btn btn-primary" value="Edit">
 </form>
       </div>
