@@ -1,0 +1,67 @@
+NAMA    : Rindi Nabila Septiani 
+NIM     : 22416255201268
+KELAS   : IF22A
+
+SOAL
+
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi?
+    (jelaskan dengan bahasa yang mudah dimengerti, bukan secara
+    harfiah/istilah)
+
+2.1 Sebutkan tema proyek yang sedang digarap!
+
+2.2 Sebutkan anggota dari proyek yang sedang digarap, berikut dengan
+    jobdesk dari masing-masing anggota!
+
+2.3 Jelaskan permasalahan yang didapat setelah hasil wawancara dengan
+    client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan
+    bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+
+3. Pada source code berikut: https://github.com/ysfwicaksana/webprogramming-course/tree/pertemuan-6
+    Terdapat file show.php di root proyek yang menghasilkan tabel data produk,
+    Didalam nya terdapat fitur “EDIT” dan “HAPUS”. Buatkan fitur “EDIT” dan
+    “HAPUS” dan unggah source code di elearning/BOC!
+
+JAWABAN
+
+1. Secara sederhana, "framework" dalam pengembangan aplikasi bisa diibaratkan sebagai kerangka kerja atau struktur yang 
+    telah disiapkan untuk membantu pengembang membuat aplikasi dengan lebih mudah dan efisien. Anda bisa membayangkan 
+    framework seperti dasar atau fondasi yang sudah ada, yang memungkinkan Anda fokus pada pembangunan fitur-fitur 
+    spesifik tanpa harus membuat semuanya dari awal.
+    Mari kita gunakan analogi untuk memahami lebih jelas:
+    Bayangkan Anda ingin membangun sebuah rumah. Tanpa framework, Anda harus memikirkan dan membuat setiap detailnya sendiri, 
+    seperti desain struktur bangunan, instalasi pipa air, listrik, dan lain-lain. Namun, jika Anda menggunakan sebuah framework, 
+    ini akan menyediakan beberapa struktur dasar seperti dinding, atap, dan fondasi. Dengan demikian, Anda dapat fokus pada pengaturan 
+    interior dan fitur-fitur khusus tanpa harus memulai dari nol.
+    Dalam pengembangan aplikasi, framework memberikan struktur dan aturan tertentu. Ini bisa mencakup cara berkomunikasi dengan database, 
+    cara menangani permintaan dari pengguna, atau bahkan cara menyusun tampilan visual. Dengan menggunakan framework, pengembang dapat menghemat 
+    waktu dan usaha karena mereka tidak perlu membuat segalanya dari awal. Mereka dapat memanfaatkan fitur-fitur yang sudah ada dalam framework untuk 
+    mempercepat proses pengembangan.
+    Contoh-framework di dunia pengembangan aplikasi termasuk Angular, React, dan Vue.js untuk pengembangan web, atau Django dan Ruby on Rails untuk 
+    pengembangan web dengan menggunakan bahasa pemrograman Python dan Ruby. Dalam keseluruhan, framework membantu membuat pengembangan aplikasi menjadi lebih 
+    terstruktur, cepat, dan efisien.
+
+2.1 KOPERASI SIMPAN PINJAM
+
+2.2 - MUHAMMAD ILMAL AULIA
+        (JODDESK): ditugaskan Mengerjakan pada bagian backend.
+    - RINDI NABILA SEPTIANI
+        (JODDESK): saya ditugaskan untuk mengerjakan analisis.
+    - NABILA NANDRA ALTHAF
+        (JODDESK): beliau  ditugaskan untuk mengerjakan desain/frontend.
+
+2.3 Menurut keterangan dari Narasumber Ketua Koperasi, koperasi sudah memiliki system namun belum dijalankan. Tetapi ada suatu kondisi dimana koperasi tersebut ingin menambahkan sebuah menu untuk simpan pinjam dan menambahkan iklan di halaman utama.
+Berdasarkan keterangan narasumber kami berencana untuk membuat sistem website yang 
+berfungsi untuk:
+
+    1. Membuat sistem yang terbagi menjadi dua hak akses, yaitu hak akses user untuk member dan hak akses admin untuk petugas koperasi.
+    2. Akun dengan hak akses user dapat digunakan untuk : 
+        a. Melihat dan melakukan simpan pinjam.
+
+    3. Akun dengan hak akses admin dapat digunakan untuk:
+        a. Menginput data member dan rekap keuangan data member.
+        b. Melihat,mencari,dan memfilter daftar member.
+
+    4. Membuat beberapa fitur / menu baik untuk admin bahkan user contohnya seperti 
+        deposito.
+    5. Member/User bisa melihat iklan produk/barang dari koperasi tersebut
